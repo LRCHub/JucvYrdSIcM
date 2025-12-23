@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "That's What I Like",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2025-12-23T17:12:44.534719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/01_That's_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/02_That's_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/03_That's_What_I_Like_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thats What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/04_Thats_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Jive Bunny",
+      "has_synced": true,
+      "path": "select/05_That's_What_I_Like_Jive_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That’s What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/06_That’s_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That's what i like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/07_That's_what_i_like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/08_That's_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "that's what i like (slowed)",
+      "artist": "Hetal",
+      "has_synced": true,
+      "path": "select/09_that's_what_i_like_(slowed)_Hetal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/10_That's_What_I_Like_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That’s What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/11_That’s_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/12_That's_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thats What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/13_Thats_What_I_Like_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's What I Like",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_That's_What_I_Like_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_That's_What_I_Like_Bruno_Mars.txt"
+    }
+  ]
+}
