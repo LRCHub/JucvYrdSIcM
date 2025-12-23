@@ -1,0 +1,68 @@
+# Bruno Mars – That's What I Like
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I got a condo in Manhattan
+Baby girl what's happening
+You and your ass invited
+So go and get to clapping
+Girl pop it for
+Pop pop it for me
+Turn around and drop it for a player
+Drop drop it for me
+I'll rent a beach house in Miami
+Wake up with no jammies
+Lobster tail for dinner
+Julio serve that scampi
+You got it if you want it
+Got got it if you want it
+Said you got it if you want it
+Take my wallet if you want it now
+*
+Jump in the Cadillac
+Girl let's put some miles on it
+Anything you want
+Just to put a smile on it
+You deserve it baby you deserve it all
+And I'm going to give it to you
+**
+Gold jewelry shinning so bright
+Strawberry champagne all night
+Lucky for you that's what I like
+That's what I like
+Lucky for you that's what I like
+That's what I like
+Sex by the fire at night
+Silk sheets and diamonds all white
+Lucky for you that's what I like
+That's what I like
+Lucky for you that's what I like
+That's what I like
+I'm talking trips to Puerto Rico
+Say the word and we go
+You can be my freaka
+Girl I'll be your freako
+Mamacita
+I will never make a promise that I can't keep
+I promise that your smile aint gon never leave
+Shopping sprees in Paris
+Everyday 24 karats
+Now take a look in that mirror
+Now tell me who's the fairest
+Is it you? (Is it you?)
+Is it me? (Is it me?)
+Say it's us (Say it's us)
+And I'll agree baby
+* Repeat
+** Repeat
+You say you want a good time
+Well here I am baby here I am baby
+Talk to me talk to me talk to me
+Tell me what on your mind
+If you want it girl come and get it
+All this is here for you
+Tell me baby tell me tell me baby
+What you trying to do
+** Repeat
+```
